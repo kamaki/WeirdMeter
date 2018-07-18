@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "46F4E461-426A-41E6-BB51-3D0C6B42A1EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C05710CD-3196-4FC9-91EF-EEFE2CADEBE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3472AD77-53E0-4C2B-87A0-E0E235AE3519"
+    },
+    {
+      "class": "text",
+      "id": "D2232C5A-C8A0-4265-ACCD-8C46CA2EFC0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91CA0934-BE07-4834-86C1-6EE8C66AF189"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C85E805E-1901-447F-9402-F454D742422B"
+    },
+    {
+      "class": "group",
+      "id": "7BFACBD0-74FA-48CB-A038-35F140AB0CA0"
+    }
+  ],
+  "name": "Safari Navigation bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
