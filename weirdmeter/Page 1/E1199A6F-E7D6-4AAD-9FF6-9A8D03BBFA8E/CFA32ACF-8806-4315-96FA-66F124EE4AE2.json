@@ -41,7 +41,7 @@
     "height": 23,
     "width": 19,
     "x": 130,
-    "y": 82
+    "y": 74
   },
   "glyphBounds": "{{0, 3}, {21, 21}}",
   "isFixedToViewport": false,
@@ -136,12 +136,12 @@
           },
           "scaleFactor": 1,
           "top": {
-            "constant": 80,
+            "constant": 72,
             "enabled": 1,
             "modelID": "constraint_b80796db-3a31-4c1a-85b7-04cbb6c69628",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.001515151
+            "multiplier": 0.001461988
           }
         },
         "isAutoWidth": 0
