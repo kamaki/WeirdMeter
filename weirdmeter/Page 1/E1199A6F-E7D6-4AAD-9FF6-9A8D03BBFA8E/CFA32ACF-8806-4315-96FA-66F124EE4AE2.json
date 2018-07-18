@@ -6,41 +6,27 @@
       {
         "_class": "stringAttribute",
         "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "KraashBlack",
-              "size": 20
+              "name": "AppleColorEmoji",
+              "size": 16
             }
-          },
-          "kerning": -0.6428569,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 10,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "WeirDMeter"
+    "string": "😜"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "C73D59B3-6082-414B-AAC8-4A5BC5AB2806",
+  "do_objectID": "CFA32ACF-8806-4315-96FA-66F124EE4AE2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "397A4356-100F-472B-9951-3E01E280CCA2",
+    "do_objectID": "92524261-F4C3-4DE9-BF92-B98939226022",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +37,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "86D28872-E740-4E48-B431-DB59FBB85CAA",
-    "height": 56,
-    "width": 375,
-    "x": 0,
-    "y": 89
+    "do_objectID": "4F15E79A-CBA6-4CC8-8AC8-4D441F2624FA",
+    "height": 23,
+    "width": 19,
+    "x": 130,
+    "y": 82
   },
-  "glyphBounds": "{{81, -13}, {215, 35}}",
+  "glyphBounds": "{{0, 3}, {21, 21}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,15 +51,15 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "WeirDMeter",
+  "name": "😜",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -17,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B17CA446-BC9B-4D8D-AF58-5C440348DABA",
+    "do_objectID": "CD04CD51-61A9-41F3-A8AD-7468FC79A093",
     "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
@@ -94,36 +80,22 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 3,
+        "offsetY": 1,
         "spread": 0
       }
     ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B65479C4-4C51-43C3-A91A-107179FE08E3",
+      "do_objectID": "F7A6DD01-93F0-417F-BAF4-B4AD2224E0DF",
       "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "KraashBlack",
-            "size": 20
+            "name": "AppleColorEmoji",
+            "size": 16
           }
-        },
-        "kerning": -0.6428569,
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
@@ -136,7 +108,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": -48,
             "enabled": 1,
             "modelID": "constraint_34984878-8324-4cce-b94c-85d2e4acd1cc",
             "model_class": "ADModelConstraint",
@@ -144,32 +116,32 @@
             "multiplier": 0
           },
           "left": {
-            "constant": 0,
+            "constant": 129,
             "enabled": 1,
             "modelID": "constraint_ea1cfcea-6c04-4bfe-b6a4-61b5c0fec9fa",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0
+            "multiplier": 0.002666667
           },
           "modelID": "viewConstraints_7771b272-d067-49bb-b229-d16f74c9a564",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "right": {
-            "constant": -4,
+            "constant": 223,
             "enabled": 1,
             "modelID": "constraint_fdc96adf-52d8-4910-bb2b-d9bd08fd9944",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.01066667
+            "multiplier": 0.008
           },
           "scaleFactor": 1,
           "top": {
-            "constant": 89,
+            "constant": 80,
             "enabled": 1,
             "modelID": "constraint_b80796db-3a31-4c1a-85b7-04cbb6c69628",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0
+            "multiplier": 0.001515151
           }
         },
         "isAutoWidth": 0

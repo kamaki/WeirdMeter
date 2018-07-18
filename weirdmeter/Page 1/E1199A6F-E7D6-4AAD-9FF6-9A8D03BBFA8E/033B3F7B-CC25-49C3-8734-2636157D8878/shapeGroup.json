@@ -1,0 +1,249 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "033B3F7B-CC25-49C3-8734-2636157D8878",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 34,
+    "width": 214,
+    "x": 81,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "44FF98A5-00BF-4EE8-B64C-326E2DDEBB57"
+    },
+    {
+      "class": "shapePath",
+      "id": "46702C23-1798-4ECA-84CE-C19FB5FA8981"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C092BF9-4066-43A6-B318-0A7FF3DE553B"
+    },
+    {
+      "class": "shapePath",
+      "id": "1EC3379D-BD85-4ADB-A122-8D0B070E574E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B48660C7-D0B3-4259-92E9-77597AF8237A"
+    },
+    {
+      "class": "shapePath",
+      "id": "13168A5F-4E12-4716-AC59-B4F5D3155114"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1D129C4-02F0-4185-B7BC-8EAF213C2DC1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3DAA66D-80C7-4AB5-A942-C48E0F5D3E56"
+    },
+    {
+      "class": "shapePath",
+      "id": "7AF21A60-4253-443C-9C84-465E91E83ABE"
+    },
+    {
+      "class": "shapePath",
+      "id": "D23AFB8D-8A22-4A55-A029-2EB8DC8BB269"
+    },
+    {
+      "class": "shapePath",
+      "id": "3304F73D-3F82-442B-9C37-BFEA7B78582A"
+    },
+    {
+      "class": "shapePath",
+      "id": "56EE7818-3FD2-456D-AC4F-DA53504689A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "C090A34C-060E-4124-8E45-4DBDE2167464"
+    }
+  ],
+  "name": "WeirDMeter",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2156862745098039,
+          "green": 0.8078431372549019,
+          "red": 1
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0.9638756210445967,
+          "from": "{0.5, 0.5}",
+          "gradientType": 1,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4823529411764707,
+                "green": 0.9725490196078431,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2156862745098039,
+                "green": 0.8078431372549019,
+                "red": 1
+              },
+              "position": 0.306840513190796
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2039215686274509,
+                "green": 0.8431372549019608,
+                "red": 1
+              },
+              "position": 0.4678468208092486
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1686274509803922,
+                "green": 0.7647058823529411,
+                "red": 1
+              },
+              "position": 1
+            }
+          ],
+          "to": "{-0.023464380595373677, 0.85122584366887799}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0.967391304347826,
+          "blue": 0.1521577380952381,
+          "green": 0.1521577380952381,
+          "red": 0.1521577380952381
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      },
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2823529411764706,
+          "green": 0.1098039215686274,
+          "red": 0.196078431372549
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 33.85742,
+            "enabled": 1,
+            "modelID": "constraint_4d0e1ff8-81fd-48f8-86b2-95686f80a3d0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 213.9213
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9f4919dc-a1af-41b4-8558-006c35dec246",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

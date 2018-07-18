@@ -18,7 +18,7 @@
     "do_objectID": "817AF436-E0C0-4AFE-827B-2B5C635403A3",
     "height": 60,
     "width": 140,
-    "x": 165,
+    "x": 156,
     "y": 0
   },
   "hasClickThrough": false,
@@ -27,15 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "39C7B79B-E9C7-4B27-9EF7-ACD0226D2B13"
-    },
-    {
-      "class": "text",
-      "id": "B7D5C5BF-D65A-4E7A-A844-DD7E60CF2B69"
     }
   ],
   "name": "Group",

@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 163,
-    "width": 163,
+    "height": 164,
+    "width": 164,
     "x": 106,
     "y": 324
   },
@@ -36,7 +36,7 @@
   ],
   "name": "Oval",
   "nameIsFixed": false,
-  "resizingConstraint": 18,
+  "resizingConstraint": 31,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -178,14 +178,6 @@
             "multiplier": 162
           },
           "automatic": 1,
-          "bottom": {
-            "constant": 325,
-            "enabled": 1,
-            "modelID": "constraint_a2e48718-8d17-4240-8e0c-030b654ea8eb",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
           "centerHorizontally": {
             "constant": 0,
             "enabled": 1,
@@ -194,33 +186,9 @@
             "model_version": 0.1,
             "multiplier": 0
           },
-          "centerVertically": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_3df175f0-e3c4-4ae0-81d6-ca76615086e4",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "left": {
-            "constant": 106,
-            "enabled": 1,
-            "modelID": "constraint_df6f780b-ec7f-4e3b-9ea0-71c3b6996ce4",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
           "modelID": "viewConstraints_649e019a-50a1-4f41-9d5d-c458285cbf19",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
-          "right": {
-            "constant": 106,
-            "enabled": 1,
-            "modelID": "constraint_1b4c33b1-e01b-41ca-95b9-b6f57dd4b3c8",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
           "scaleFactor": 1,
           "top": {
             "constant": 324,

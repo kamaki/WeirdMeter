@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 213,
+    "height": 218,
     "width": 356,
     "x": 10,
-    "y": 127
+    "y": 150
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -116,7 +116,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 6,
+        "offsetY": 5,
         "spread": 0
       }
     ],
@@ -149,12 +149,12 @@
           },
           "scaleFactor": 1,
           "top": {
-            "constant": 133,
+            "constant": 160,
             "enabled": 1,
             "modelID": "constraint_49b4f1ae-5cca-450b-a79f-d394128a0cb2",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": -0.007094342
+            "multiplier": -0.007575758
           }
         }
       }

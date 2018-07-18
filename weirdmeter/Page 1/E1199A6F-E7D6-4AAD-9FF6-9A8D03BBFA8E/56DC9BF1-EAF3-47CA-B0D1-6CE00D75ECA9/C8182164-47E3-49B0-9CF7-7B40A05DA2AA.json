@@ -9,40 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1326195030026294,
-            "green": 0.358939293045334,
-            "red": 0.513499149659864
+            "blue": 0.02588222789115646,
+            "green": 0.02588222789115646,
+            "red": 0.02588222789115646
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Extrabold",
-              "size": 14
+              "name": "OpenSans",
+              "size": 13
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 349,
         "location": 0
       }
     ],
-    "string": "Super \nIntelligence"
+    "string": "In hac habitasse platea dictumst. Vivamus adipiscing fermentum quam volutpat aliquam. Integer et elit eget elit facilisis tristique. Nam vel iaculis mauris. Sed ullamcorper tellus erat, non ultrices sem tincidunt euismod. Fusce rhoncus porttitor velit, eu bibendum nibh aliquet vel. Fusce lorem leo, vehicula at nibh quis, facilisis accumsan turpis."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "B7D5C5BF-D65A-4E7A-A844-DD7E60CF2B69",
+  "do_objectID": "C8182164-47E3-49B0-9CF7-7B40A05DA2AA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "05FD94D6-BA06-4C12-8589-5D3F736DCEEB",
+    "do_objectID": "C6E3F5D1-BCD5-4C36-B7D6-D4CB5E6E1ACD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BD6E0570-2EA0-4A3D-9592-BA599301F102",
-    "height": 33,
-    "width": 140,
-    "x": 0,
-    "y": 14
+    "do_objectID": "DD97CD17-3257-4A13-B5D6-1C2221DD7E1E",
+    "height": 76,
+    "width": 251,
+    "x": 57,
+    "y": 24
   },
-  "glyphBounds": "{{28, 2}, {85, 31}}",
+  "glyphBounds": "{{0, 5}, {243, 166}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Super Intelligence",
+  "name": "lorem text",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,35 +75,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "083AE976-FB2C-42F7-96E8-44C90B11CCE6",
+    "do_objectID": "BA104C8A-2262-41FD-A091-CA0CC7852483",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B17F3C19-2AAE-4FC7-BC61-2705CE717DE2",
+      "do_objectID": "CD8C976B-224F-4B9D-973D-7AA81EA43813",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1326195030026294,
-          "green": 0.358939293045334,
-          "red": 0.513499149659864
+          "blue": 0.02588222789115646,
+          "green": 0.02588222789115646,
+          "red": 0.02588222789115646
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Extrabold",
-            "size": 14
+            "name": "OpenSans",
+            "size": 13
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 19,
+          "minimumLineHeight": 19
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -115,21 +115,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "centerVertically": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_0e8b4c35-1e0d-4428-b5f1-3e2f64a8dc58",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_52fa9432-929f-456f-aa84-9213eda990ba",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        },
         "isAutoWidth": 0
       }
     }

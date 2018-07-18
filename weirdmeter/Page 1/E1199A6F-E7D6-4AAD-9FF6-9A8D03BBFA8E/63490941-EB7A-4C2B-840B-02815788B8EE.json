@@ -83,7 +83,7 @@
     "height": 33,
     "width": 331,
     "x": 22,
-    "y": 366
+    "y": 676
   },
   "glyphBounds": "{{111, 4}, {108, 17}}",
   "isFixedToViewport": false,
@@ -192,7 +192,7 @@
           },
           "scaleFactor": 1,
           "top": {
-            "constant": 366,
+            "constant": 676,
             "enabled": 1,
             "modelID": "constraint_b80796db-3a31-4c1a-85b7-04cbb6c69628",
             "model_class": "ADModelConstraint",

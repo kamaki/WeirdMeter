@@ -9,40 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1326195030026294,
-            "green": 0.358939293045334,
-            "red": 0.513499149659864
+            "blue": 0.5712691326530612,
+            "green": 0.5712691326530612,
+            "red": 0.5712691326530612
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Extrabold",
-              "size": 14
+              "name": "OpenSans",
+              "size": 13
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Super \nStrength"
+    "string": "3 days ago"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "164568BA-BB80-4F64-8EB7-611A03B11954",
+  "do_objectID": "A219DE98-5016-407A-8799-3392B6064BC0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "47CAF2AD-967E-4F9A-BCFE-5AC78B95897B",
+    "do_objectID": "6D28CBAD-D68A-4BF3-81F7-A7725011F9EC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D5D31007-65FC-4FD1-9D5D-9FB7A57C97FA",
-    "height": 34,
-    "width": 140,
-    "x": 0,
-    "y": 21
+    "do_objectID": "B1DF0A69-8BEB-4252-987C-A70DBF85BA7B",
+    "height": 28,
+    "width": 251,
+    "x": 57,
+    "y": 74
   },
-  "glyphBounds": "{{38, 2}, {63, 31}}",
+  "glyphBounds": "{{0, 5}, {64, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Super Strength",
+  "name": "3 days ago",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,35 +75,35 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2D63991F-23B5-4E9E-BA05-46AAE46E5B17",
+    "do_objectID": "BB8A0E62-8DDD-461E-B89B-918EF478EBB7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E7FEAE3A-1F5E-4581-BB8C-2313EC177551",
+      "do_objectID": "D85C3DC2-42DA-406C-86CF-4542C6B89F6E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1326195030026294,
-          "green": 0.358939293045334,
-          "red": 0.513499149659864
+          "blue": 0.5712691326530612,
+          "green": 0.5712691326530612,
+          "red": 0.5712691326530612
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Extrabold",
-            "size": 14
+            "name": "OpenSans",
+            "size": 13
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 19,
+          "minimumLineHeight": 19
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -115,21 +115,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "centerVertically": {
-            "constant": 8,
-            "enabled": 1,
-            "modelID": "constraint_42250e0d-b4fa-4bdd-bad3-1da01049f78c",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_e3c993cb-8d00-448f-8c03-a2832807824d",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        },
         "isAutoWidth": 0
       }
     }

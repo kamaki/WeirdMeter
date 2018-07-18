@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "35FBE294-D11D-4D0A-A2C6-036479F28ADC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92B0DC84-E556-4E42-8403-26D6E61EE0D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0E082D2-BC01-428C-8EAD-7FC5367C31C9",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C57052C3-B7AB-4420-97C8-1226D361D3D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "939684BF-C148-4861-9E0B-0B7DFF12EFD1"
+    }
+  ],
+  "name": "Avatar/Fill - Image",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C76EC77-5136-41EA-AB7C-F92C0C8D6A70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

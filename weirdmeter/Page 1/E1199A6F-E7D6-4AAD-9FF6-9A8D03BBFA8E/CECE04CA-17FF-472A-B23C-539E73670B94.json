@@ -1,0 +1,161 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AppleColorEmoji",
+              "size": 17
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17
+          }
+        },
+        "length": 2,
+        "location": 0
+      }
+    ],
+    "string": "😜"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "CECE04CA-17FF-472A-B23C-539E73670B94",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B572A66F-5F06-4AC9-BB4C-D79F8026F052",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50AB6514-AAEC-4B04-8368-159644580D4F",
+    "height": 23,
+    "width": 19,
+    "x": 272,
+    "y": 756
+  },
+  "glyphBounds": "{{0, -2}, {21, 22}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "😜",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -17,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93EC96D3-4C60-4D3F-9E87-D3F710308270",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2570418792517007,
+          "green": 0.06494506288621628,
+          "red": 0.1312642018695382
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "F767D481-61C6-4BEB-9654-18BBC13CEF43",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AppleColorEmoji",
+            "size": 17
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 94,
+            "enabled": 1,
+            "modelID": "constraint_34984878-8324-4cce-b94c-85d2e4acd1cc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 270,
+            "enabled": 1,
+            "modelID": "constraint_ea1cfcea-6c04-4bfe-b6a4-61b5c0fec9fa",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0.005333333
+          },
+          "modelID": "viewConstraints_7771b272-d067-49bb-b229-d16f74c9a564",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 82,
+            "enabled": 1,
+            "modelID": "constraint_fdc96adf-52d8-4910-bb2b-d9bd08fd9944",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0.005333333
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 756,
+            "enabled": 1,
+            "modelID": "constraint_b80796db-3a31-4c1a-85b7-04cbb6c69628",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

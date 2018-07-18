@@ -1,0 +1,186 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BAAC03C-9E99-4862-929D-903C8A2AD701",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAC36055-E604-405A-9D92-E59F97BDC522",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4592372-F337-414F-8940-8D2C31A8343A",
+    "height": 117,
+    "width": 160,
+    "x": 24,
+    "y": 233
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A5036D63-A42D-4239-A7ED-9C6CE5BDA073"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.05794270833333334,
+          "blue": 0.0587000425170068,
+          "green": 0.0587000425170068,
+          "red": 0.0587000425170068
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 2,
+        "thickness": 5
+      }
+    ],
+    "do_objectID": "25E397E3-84CC-4CA5-BFFF-7DCFEFBD4FB4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 0.3
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/2b2f541940b0615b099eed787fa8a83a7d2f3581.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 44,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      },
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6513013900665617,
+          "green": 0.6513013900665617,
+          "red": 0.6560905612244898
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_824d2885-a4ee-4be6-8f9f-2b5da58c945a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": -0.02133333
+          },
+          "modelID": "viewConstraints_4bb53717-4999-4546-89ee-d01cfd8c32b4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 200,
+            "enabled": 1,
+            "modelID": "constraint_3cc426b9-08ed-46e4-9d53-ec2b4db7a878",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": -0.024
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 243,
+            "enabled": 1,
+            "modelID": "constraint_49b4f1ae-5cca-450b-a79f-d394128a0cb2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": -0.007575758
+          }
+        }
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Kids",
+        "icon": "smile",
+        "index": 1,
+        "mode": "unsplash",
+        "title": "Kids"
+      }
+    }
+  },
+  "windingRule": 0
+}
